@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/exolore"
+        android:icon="@drawable/explore"
+        android:title="EXPLORE"
+        ></item>
+
+    <item android:id="@+id/heart"
+        android:title="WISHLIST"
+        android:icon="@drawable/heart"
+        ></item>
+
+    <item android:id="@+id/equlizer"
+        android:title="SEARCH"
+        android:icon="@drawable/equalizer"
+        ></item>
+
+    <item android:id="@+id/Message"
+        android:title="MESSAGE"
+        android:icon="@drawable/speechbubble"></item>
+
+    <item android:id="@+id/profile"
+        android:title="PROFILE"
+        android:icon="@drawable/user"
+        ></item>
+</menu>
